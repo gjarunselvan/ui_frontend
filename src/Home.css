@@ -1,0 +1,28 @@
+/* Home.css */
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
+  
+  .header {
+    /* Add styling for the header if needed */
+  }
+  
+  .content-container {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f8f8f8; /* Set a background color */
+  }
+  
+  /* Add more styles as needed */
+  
